@@ -28,10 +28,7 @@
 
 <div align="center">
 
-### 📊 stats at a glance
-<img src="https://github-readme-stats.vercel.app/api?username=gabytz777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Duck's Stats" />
-
-<br>
+  <br>
 
 *cya!*
 </div>
