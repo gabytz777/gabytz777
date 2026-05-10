@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&secondaryColor=2ea043&height=200&section=header&text=duckyduck&fontSize=90&animation=fadeIn&fontAlignY=35" />
-
 <img src="https://cdn.discordapp.com/avatars/1293171157700182099/1e67af3226ad77fe5c4c6c5819ede12a.png?size=256" width="120" style="border-radius: 50%;" />
 
 # hello there 👋
