@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ tech & tools
-![Minecraft](https://img.shields.io/badge/Minecraft-%23000000.svg?style=for-the-badge&logo=minecraft&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-%23000000.svg?style=for-the-badge&logo=minecraft&logoColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
