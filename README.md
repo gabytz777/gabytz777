@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">hello there 👋</h1>
 
-<!--
-**gabytz777/gabytz777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🦆 you can call me <b>Duck</b><br>
+  💻 i upload vibe-coded projects here<br>
+  🧠 hobby: doomscrolling<br>
+  ⛏️ minecraft enjoyer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚠️ warning
+this profile may contain:
+- ai slop
+- half-finished projects
+- terrible ideas
+
+---
+
+<p align="center"><i>cya!</i></p>
