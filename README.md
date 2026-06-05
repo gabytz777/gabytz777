@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/avatars/1293171157700182099/1e67af3226ad77fe5c4c6c5819ede12a.png?size=256" width="120" style="border-radius: 50%;" />
-
 # hello there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=you+can+call+me+Duck;i+upload+vibe-coded+projects;professional+doomscroller;average+minecraft+enjoyer)](https://git.io/typing-svg)
