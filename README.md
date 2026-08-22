@@ -2,36 +2,15 @@
 
 # hello there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=you+can+call+me+poisoned;i+upload+vibe-coded+projects;professional+doomscroller;average+minecraft+enjoyer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=FFFFFF\&center=true\&vCenter=true\&width=500\&lines=you+can+call+me+poisoned;i+upload+vibe-coded+projects;professional+doomscroller;average+minecraft+enjoyer)](https://git.io/typing-svg)
 
 <a href="https://discord.com/users/1293171157700182099">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="https://ko-fi.com/duckyduck67">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-</a>
----
-
-### 🛠️ tech & tools
-![Minecraft](https://img.shields.io/badge/Minecraft-%23000000.svg?style=for-the-badge&logo=minecraft&logoColor=green)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
----
-
-### ⚠️ warning
 > [!CAUTION]
-> **This profile may contain:**
-> - 🤖 **ai slop**
-> - 🏗️ **half-finished projects**
-> - 📉 **terrible ideas**
-
----
+> **AI slop • half-finished projects • terrible ideas**
 
 <div align="center">
-
-*cya!*
-
-</div>   
