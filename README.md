@@ -10,11 +10,9 @@
 
 </div>
 
-contributor to [vlang](https://github.com/vlang/v) 
 
 > [!CAUTION]
 > **AI slop • half-finished projects • terrible ideas**
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1293171157700182099?showDisplayName=true)](https://discord.com/users/1293171157700182099)
+contributor to [vlang](https://github.com/vlang/v) 
 
 <div align="center">
