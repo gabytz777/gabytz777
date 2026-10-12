@@ -10,6 +10,8 @@
 
 </div>
 
+contributor to [vlang](https://github.com/vlang/v) 
+
 > [!CAUTION]
 > **AI slop • half-finished projects • terrible ideas**
 
